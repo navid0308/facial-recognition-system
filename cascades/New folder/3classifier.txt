@@ -1,0 +1,43 @@
+CLASSIFIER 3 without BOOTSTRAPPING
+WEAK CLASSIFIERS: 750
+TRAINING FACE, ACCURACY: 96.945551
+0 face(s) moved
+Tested on 3012 faces
+Training set: 35 faces
+TRAINING FACE, ACCURACY: 98.373174
+0 face(s) moved
+Tested on 3012 faces
+Training set: 35 faces
+TRAINING NONFACE, ACCURACY: 97.980760
+0 nonface(s) moved
+Tested on 125 nonface patches
+Training set: 5 nonfaces
+TRAINING FACE, ACCURACY: 98.373174
+0 face(s) moved
+Tested on 3012 faces
+Training set: 35 faces
+
+CLASSIFIER 3 with BOOTSTRAPPING
+WEAK CLASSIFIERS: 750
+TRAINING FACE, ACCURACY: 90.272244
+5 face(s) moved
+Tested on 3012 faces
+Training set: 40 faces
+TRAINING FACE, ACCURACY: 96.940472
+5 face(s) moved
+Tested on 3007 faces
+Training set: 45 faces
+TRAINING FACE, ACCURACY: 98.401066
+5 face(s) moved
+Tested on 3002 faces
+Training set: 50 faces
+TRAINING NONFACE, ACCURACY: 97.237832
+2 nonface(s) moved
+TRAINING NONFACE, ACCURACY: 99.070038
+2 nonface(s) moved
+Tested on 123 nonface patches
+Training set: 9 nonfaces
+TRAINING FACE, ACCURACY: 98.465132
+5 face(s) moved
+Tested on 2997 faces
+Training set: 55 faces

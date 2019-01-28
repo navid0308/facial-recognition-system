@@ -1,0 +1,29 @@
+CLASSIFIER 5 without BOOTSTRAPPING trained until accuracy is saturated
+WEAK CLASSIFIERS: 1000
+TRAINING FACE, ACCURACY: 98.402990
+0 face(s) moved
+Tested on 2943 faces
+Training set: 104 faces
+TRAINING NONFACE, ACCURACY: 99.173047
+0 nonface(s) moved
+Tested on 117 nonface patches
+Training set: 13 nonfaces
+TRAINING FACE, ACCURACY: 99.048590
+0 face(s) moved
+Tested on 2943 faces
+Training set: 104 faces
+TRAINING NONFACE, ACCURACY: 99.173047
+0 nonface(s) moved
+Tested on 117 nonface patches
+Training set: 13 nonfaces
+TRAINING FACE, ACCURACY: 99.048590
+0 face(s) moved
+Tested on 2943 faces
+Training set: 104 faces
+TRAINING NONFACE, ACCURACY: 99.173047
+0 nonface(s) moved
+Tested on 117 nonface patches
+Training set: 13 nonfaces
+TRAINING FACE, ACCURACY: 99.048590
+0 face(s) moved
+Tested on 2943 faces
